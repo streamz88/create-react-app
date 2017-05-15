@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "create-react-app",
   "scripts": {
     "build": "node packages/react-scripts/scripts/build.js",
     "create-react-app": "tasks/cra.sh",
