@@ -2,7 +2,6 @@
   "private": true,
   "name": "create-react-app",
   "version": "1.0.0",
-  "version":,
   "scripts": {
     "build": "node packages/react-scripts/scripts/build.js",
     "create-react-app": "tasks/cra.sh",
